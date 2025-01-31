@@ -1,3 +1,4 @@
 function skillsmember() {
-    console.log('skillsmember');
+    console.log("member")
+    return "skills";
 }
